@@ -38,6 +38,8 @@ Our Research Question is:
 
 We will look at a pair of boxplots that shows pushups for both skill and line players to see if there is any apparent differences.
 
+We will get a numerical summary of our data with summary command to see on average how many pushups were done in the various player groups. 
+
 <Perform a variable analysis, and based on that nalysis choose at least one apprpriate graphical method and one appropriate numerical method to address the research question.>
 
 # Results
