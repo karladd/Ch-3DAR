@@ -2,7 +2,9 @@
 title: "Who does more pushups"
 author: "Bill kitto"
 date: "March 8"
-output: pdf_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r include=FALSE}
@@ -28,6 +30,8 @@ Line players are on the offensive or defensive line.  They need to be a certain 
 Our Research Question is:
 
   >Who does more pushups, on average: a line player or a skill player?
+  
+  The data is an excel type of structure called a data frame. There are 30 observations on three seperate variables, namely weight, pushups and position. Weight and pushups are numerical variables, while position is a categorical variable with values. SKILL or LINE.
 
 
 # Methods
